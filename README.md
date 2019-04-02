@@ -14,10 +14,12 @@
 
 ##### 사진을 불러오는 floating button
 
+![screenshot1](https://user-images.githubusercontent.com/31922389/55395618-d9ce6a80-557c-11e9-9799-cbafbcf98acb.jpg)
 
+#### 2) 실행 사진
 
-
-
+![screenshot4](https://user-images.githubusercontent.com/31922389/55395643-e357d280-557c-11e9-9390-c836660715f9.png)
+![screenshot5](https://user-images.githubusercontent.com/31922389/55395646-e5219600-557c-11e9-9deb-ab8697399125.png)
 
 
 ```java
@@ -177,9 +179,7 @@ labelDetectionTask.execute(); 은 라벨을 찾아주는 작업을 실행시키�
 
 
 
-
-
-
+![screenshot3](https://user-images.githubusercontent.com/31922389/55395638-e18e0f00-557c-11e9-8188-1df9ca23e7ee.png)
 
 
 
@@ -307,12 +307,7 @@ if ((btSerial.available())  ) {
 저는 구글 클라우드에서 제공하는 해당 api를 적용한  오픈소스를 기반으로 안드로이드 어플리케이션을 만들었습니다. 
 
 
-
-![CloudVisionAPI](C:\Users\Yodi\Desktop\숭실대\2018-2 숭실대\인터랙션 디자인\파이널 과제\new논문\차량 번호판 인식\images\CloudVisionAPI.png)
-
-
-
- 위의 깃허브에서 (https://github.com/GoogleCloudPlatform/cloud-vision) 제가 사용한 API에 관한 자세한 정보를 보실 수 있습니다. 
+깃허브에서 (https://github.com/GoogleCloudPlatform/cloud-vision) 제가 사용한 API에 관한 자세한 정보를 보실 수 있습니다. 
 
 
 
